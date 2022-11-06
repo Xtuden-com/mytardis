@@ -1,4 +1,4 @@
-Django==2.2.17 # pyup: >=2.2,<3
+Django==3.2.15 # pyup: >=2.2,<3
 Wand==0.6.3
 bleach==3.2.1
 celery==4.4.7
@@ -19,7 +19,7 @@ gevent==20.9.0
 html2text==2020.1.16
 html5lib==1.1
 isodate==0.6.0
-pyjwt==1.7.1
+pyjwt==2.4.0
 kombu==4.6.11
 lxml==4.6.1
 paramiko==2.7.2
@@ -33,3 +33,4 @@ pytz==2020.4
 requests==2.24.0
 uritemplate==3.0.1
 django-graphql-jwt==0.3.1
+urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
