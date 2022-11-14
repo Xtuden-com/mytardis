@@ -1,4 +1,4 @@
-Django==2.2.17 # pyup: >=2.2,<3
+Django==3.2.15 # pyup: >=2.2,<3
 Wand==0.6.3
 bleach==3.2.1
 celery==4.4.7
@@ -19,11 +19,11 @@ gevent==20.9.0
 html2text==2020.1.16
 html5lib==1.1
 isodate==0.6.0
-pyjwt==1.7.1
+pyjwt==2.4.0
 kombu==4.6.11
 lxml==4.6.1
 paramiko==2.7.2
-pillow==7.2.0
+pillow==9.0.1
 pyoai==2.5.0
 pystache==0.5.4
 python-dateutil==2.8.1
