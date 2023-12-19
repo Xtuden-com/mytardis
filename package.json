@@ -59,9 +59,9 @@
     "underscore": "^1.11.0",
     "underscore.string": "^3.3.5",
     "url-loader": "^4.1.0",
-    "webpack": "^4.44.2",
+    "webpack": "^5.0.0",
     "webpack-bundle-tracker": "^0.4.3",
-    "webpack-cli": "^3.3.12"
+    "webpack-cli": "^4.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
